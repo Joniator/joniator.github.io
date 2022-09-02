@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'jonnyb.name', // Usually your GitHub org/user name.
-  projectName: 'documentation', // Usually your repo name.
+  organizationName: 'joniator',
+  projectName: 'joniator.github.io',
 
   presets: [
     [
